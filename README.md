@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- Estudande de Sistemas de Informação.
+- Estudante de Sistemas de Informação.
 - Atualmente estou aprendendo algumas ferramentas voltadas ao Front-end.
 
 <br>
